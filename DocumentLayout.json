@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\controllers\\laptoplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\controllers\\laptoplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\controllers\\laptopdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\controllers\\laptopdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\controllers\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\controllers\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\controllers\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\controllers\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|d:\\mphasis\\ecommerce site to sell laptops\\ecommerce site to sell laptop\\ecommerce site to sell laptop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A66F952D-48F8-465E-BCB0-52BAA3598503}|Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop.csproj|solutionrelative:ecommerce site to sell laptop\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Order.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Product\\Order.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Order.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Product\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T13:14:46.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Product\\Cart.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Cart.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Product\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T13:14:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T13:13:54.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T13:12:45.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaptopDetails.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\LaptopDetails.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Controllers\\LaptopDetails.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\LaptopDetails.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Controllers\\LaptopDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:15:43.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LaptopList.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\LaptopList.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Controllers\\LaptopList.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\LaptopList.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Controllers\\LaptopList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:14:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Models\\Order.cs",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\Order.cs",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Models\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T08:41:04.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Models\\User.cs",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\User.cs",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T08:40:49.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T10:10:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:05:02.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Controllers\\OrderConfirmation.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Controllers\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:17:01.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Models\\Laptop.cs",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Models\\Laptop.cs",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Models\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T08:40:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:11:49.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Controllers\\ShoppingCart.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Controllers\\ShoppingCart.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Controllers\\ShoppingCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:16:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:05:40.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:05:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:05:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:05:04.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\Web.config",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\Web.config",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-09T10:04:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-09T10:04:28.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Global.asax.cs",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Global.asax.cs",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T10:02:33.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Web.config",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\Web.config",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\Web.config",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-09T10:00:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\favicon.ico",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\favicon.ico",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-09T10:00:35.941Z",
+              "EditorCaption": " -  [English (United States)] - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\packages.config",
+              "RelativeDocumentMoniker": "Ecommerce Site to Sell Laptop\\packages.config",
+              "ToolTip": "D:\\mphasis\\Ecommerce Site to Sell Laptops\\Ecommerce Site to Sell Laptop\\Ecommerce Site to Sell Laptop\\packages.config",
+              "RelativeToolTip": "Ecommerce Site to Sell Laptop\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-09T10:00:24.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
